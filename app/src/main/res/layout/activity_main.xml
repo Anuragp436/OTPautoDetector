@@ -11,13 +11,14 @@
         android:layout_height="190dp"
         android:src="@drawable/otp"
         android:id="@+id/imOTP"
-        android:layout_marginStart="100dp"/>
+        android:layout_marginStart="100dp"
+        android:layout_marginLeft="100dp" />
 <TextView
     android:layout_width="300dp"
     android:layout_gravity="center_horizontal"
     android:layout_height="wrap_content"
     android:layout_marginTop="230dp"
-    android:text="ENTER PHONE NUMBER WITH STD CODE +91"
+    android:text="ENTER YOUR CORRECT PHONE NUMBER "
     android:textColor="@color/black"
     android:textSize="25dp"
     android:textStyle="italic"
@@ -26,6 +27,7 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="300dp"
+        android:text="+91"
 android:inputType="number"
         android:layout_gravity="center_horizontal"
         android:hint="PHONE NUMBER"

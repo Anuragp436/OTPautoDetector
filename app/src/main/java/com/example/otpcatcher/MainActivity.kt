@@ -51,6 +51,7 @@ class MainActivity : AppCompatActivity() {
             binding.btVerify1.visibility = View.VISIBLE
             binding.btVerify1.isEnabled=true
             val phoneNumber = binding.etID.text.toString()
+            Log.d("PHLENGTH","${phoneNumber}")
             if (phoneNumber.length != 13) {
                 Toast.makeText(
                     this@MainActivity,
