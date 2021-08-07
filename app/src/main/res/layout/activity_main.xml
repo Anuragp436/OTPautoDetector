@@ -26,7 +26,7 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="300dp"
-
+android:inputType="number"
         android:layout_gravity="center_horizontal"
         android:hint="PHONE NUMBER"
         android:id="@+id/etID"
@@ -43,6 +43,7 @@
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:hint="OTP"
+        android:inputType="number"
         android:layout_marginTop="400dp"
         android:layout_gravity="center_horizontal"
         android:id="@+id/etID1"
