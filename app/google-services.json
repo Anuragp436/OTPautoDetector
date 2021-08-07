@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87650508367",
+    "project_id": "otpcatcher-393ab",
+    "storage_bucket": "otpcatcher-393ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87650508367:android:9353e38e3a7382147d943a",
+        "android_client_info": {
+          "package_name": "com.example.otpcatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87650508367-1621p4vtrc8r20ouc2u2skghtculo7hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjowEdDnkVIm-KcE9MlAqVlUd3TPr_6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87650508367-1621p4vtrc8r20ouc2u2skghtculo7hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
